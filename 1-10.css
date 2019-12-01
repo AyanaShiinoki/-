@@ -79,9 +79,11 @@ p{
 }
 
   .step-box{
+    width: 90%;
     float: none;
     margin:0 auto 20px auto;
     display: block;
+    padding:10px;
 
   }
 
@@ -91,19 +93,19 @@ p{
 }
 
 .step-img1{
-  height: 110px;
+  height: 150px;
   background-size:cover;
   background-position:bottom;
 }
 
 .step-img2{
-  height: 110px;
+  height: 150px;
   background-size:cover;
   background-position:bottom;
 }
 
 .step-img3{
-  height: 110px;
+  height: 150px;
   background-size:cover;
   background-position:bottom;
 }
